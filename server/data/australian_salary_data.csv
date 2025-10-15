@@ -1,0 +1,128 @@
+role,city,experience_level,base_salary_min,base_salary_max,with_ai_skills_min,with_ai_skills_max,ai_premium_percent,industry,demand_level,automation_risk
+Administrative Assistant,Sydney,0-2 years,55000,65000,65000,78000,18,Various,Medium,High
+Administrative Assistant,Melbourne,0-2 years,52000,62000,62000,74000,18,Various,Medium,High
+Administrative Assistant,Brisbane,0-2 years,50000,60000,58000,70000,16,Various,Medium,High
+Administrative Assistant,Perth,0-2 years,53000,63000,61000,73000,15,Various,Medium,High
+Administrative Assistant,Adelaide,0-2 years,48000,58000,55000,67000,15,Various,Low,High
+Business Analyst,Sydney,0-2 years,70000,85000,95000,120000,40,Tech/Finance,High,Moderate
+Business Analyst,Melbourne,0-2 years,68000,82000,92000,115000,38,Tech/Finance,High,Moderate
+Business Analyst,Brisbane,0-2 years,65000,78000,88000,108000,36,Various,Medium,Moderate
+Business Analyst,Perth,0-2 years,66000,80000,89000,110000,35,Mining/Resources,Medium,Moderate
+Business Analyst,Adelaide,0-2 years,62000,75000,83000,103000,33,Various,Low,Moderate
+Business Analyst,Sydney,3-5 years,90000,110000,125000,165000,45,Tech/Finance,High,Moderate
+Business Analyst,Melbourne,3-5 years,88000,108000,120000,158000,42,Tech/Finance,High,Moderate
+Data Analyst,Sydney,0-2 years,75000,90000,105000,135000,45,Tech/Finance,Very High,Low
+Data Analyst,Melbourne,0-2 years,72000,87000,100000,128000,42,Tech/Finance,Very High,Low
+Data Analyst,Brisbane,0-2 years,68000,82000,94000,118000,40,Various,High,Low
+Data Analyst,Perth,0-2 years,70000,85000,96000,122000,38,Mining/Tech,High,Low
+Data Analyst,Adelaide,0-2 years,65000,78000,88000,110000,36,Various,Medium,Low
+Data Analyst,Sydney,3-5 years,95000,115000,140000,180000,50,Tech/Finance,Very High,Low
+Data Analyst,Melbourne,3-5 years,92000,112000,135000,172000,48,Tech/Finance,Very High,Low
+Data Scientist,Sydney,0-2 years,90000,110000,135000,175000,56,Tech/Finance,Very High,Very Low
+Data Scientist,Melbourne,0-2 years,88000,108000,130000,168000,52,Tech/Finance,Very High,Very Low
+Data Scientist,Brisbane,0-2 years,82000,100000,120000,155000,48,Tech,High,Very Low
+Data Scientist,Perth,0-2 years,85000,105000,123000,160000,46,Mining/Tech,High,Very Low
+Data Scientist,Sydney,3-5 years,120000,150000,185000,240000,55,Tech/Finance,Very High,Very Low
+Data Scientist,Melbourne,3-5 years,118000,145000,180000,232000,53,Tech/Finance,Very High,Very Low
+Software Engineer - Frontend,Sydney,0-2 years,75000,95000,95000,130000,35,Tech,High,Moderate
+Software Engineer - Frontend,Melbourne,0-2 years,72000,92000,92000,125000,33,Tech,High,Moderate
+Software Engineer - Frontend,Brisbane,0-2 years,68000,85000,85000,115000,30,Tech,Medium,Moderate
+Software Engineer - Frontend,Sydney,3-5 years,105000,135000,140000,190000,40,Tech,Very High,Moderate
+Software Engineer - Frontend,Melbourne,3-5 years,102000,130000,135000,182000,38,Tech,Very High,Moderate
+Software Engineer - Backend,Sydney,0-2 years,80000,100000,105000,145000,38,Tech,Very High,Moderate
+Software Engineer - Backend,Melbourne,0-2 years,78000,98000,102000,140000,36,Tech,Very High,Moderate
+Software Engineer - Backend,Brisbane,0-2 years,72000,90000,94000,128000,33,Tech,High,Moderate
+Software Engineer - Backend,Sydney,3-5 years,110000,140000,150000,205000,42,Tech,Very High,Moderate
+Software Engineer - Backend,Melbourne,3-5 years,108000,135000,145000,198000,40,Tech,Very High,Moderate
+Machine Learning Engineer,Sydney,0-2 years,95000,120000,135000,180000,48,Tech/Finance,Very High,Very Low
+Machine Learning Engineer,Melbourne,0-2 years,92000,115000,130000,172000,45,Tech,Very High,Very Low
+Machine Learning Engineer,Brisbane,0-2 years,85000,105000,118000,155000,40,Tech,High,Very Low
+Machine Learning Engineer,Sydney,3-5 years,130000,165000,195000,260000,52,Tech/Finance,Very High,Very Low
+Machine Learning Engineer,Melbourne,3-5 years,125000,160000,188000,250000,50,Tech,Very High,Very Low
+Product Manager,Sydney,0-2 years,85000,105000,110000,145000,33,Tech,High,Low
+Product Manager,Melbourne,0-2 years,82000,102000,105000,138000,30,Tech,High,Low
+Product Manager,Brisbane,0-2 years,78000,95000,98000,128000,28,Tech,Medium,Low
+Product Manager,Sydney,3-5 years,120000,155000,165000,220000,40,Tech,Very High,Low
+Product Manager,Melbourne,3-5 years,115000,150000,158000,210000,38,Tech,Very High,Low
+UX/UI Designer,Sydney,0-2 years,70000,90000,88000,118000,30,Tech/Agency,High,Moderate
+UX/UI Designer,Melbourne,0-2 years,68000,88000,85000,115000,28,Tech/Agency,High,Moderate
+UX/UI Designer,Brisbane,0-2 years,65000,82000,80000,108000,25,Tech/Agency,Medium,Moderate
+UX/UI Designer,Sydney,3-5 years,95000,125000,125000,168000,35,Tech,High,Moderate
+UX/UI Designer,Melbourne,3-5 years,92000,120000,120000,162000,33,Tech,High,Moderate
+Marketing Analyst,Sydney,0-2 years,65000,80000,82000,108000,32,Marketing/Tech,Medium,Moderate
+Marketing Analyst,Melbourne,0-2 years,62000,78000,78000,103000,30,Marketing/Tech,Medium,Moderate
+Marketing Analyst,Brisbane,0-2 years,60000,75000,74000,98000,28,Marketing,Medium,Moderate
+Marketing Analyst,Sydney,3-5 years,85000,105000,112000,148000,35,Marketing/Tech,High,Moderate
+Marketing Analyst,Melbourne,3-5 years,82000,102000,108000,142000,33,Marketing/Tech,High,Moderate
+Financial Analyst,Sydney,0-2 years,70000,88000,92000,122000,38,Finance,High,High
+Financial Analyst,Melbourne,0-2 years,68000,85000,88000,118000,36,Finance,High,High
+Financial Analyst,Brisbane,0-2 years,65000,80000,83000,110000,33,Finance,Medium,High
+Financial Analyst,Perth,0-2 years,66000,82000,84000,112000,32,Finance/Mining,Medium,High
+Financial Analyst,Sydney,3-5 years,95000,120000,132000,175000,42,Finance,High,High
+Financial Analyst,Melbourne,3-5 years,92000,115000,127000,168000,40,Finance,High,High
+Cybersecurity Analyst,Sydney,0-2 years,80000,100000,110000,145000,40,Tech/Finance,Very High,Very Low
+Cybersecurity Analyst,Melbourne,0-2 years,78000,98000,105000,138000,38,Tech/Finance,Very High,Very Low
+Cybersecurity Analyst,Brisbane,0-2 years,72000,90000,96000,125000,35,Tech,High,Very Low
+Cybersecurity Analyst,Sydney,3-5 years,115000,145000,158000,210000,42,Tech/Finance,Very High,Very Low
+Cybersecurity Analyst,Melbourne,3-5 years,112000,140000,152000,202000,40,Tech/Finance,Very High,Very Low
+DevOps Engineer,Sydney,0-2 years,85000,105000,115000,150000,38,Tech,Very High,Low
+DevOps Engineer,Melbourne,0-2 years,82000,102000,110000,145000,36,Tech,Very High,Low
+DevOps Engineer,Brisbane,0-2 years,75000,95000,100000,132000,33,Tech,High,Low
+DevOps Engineer,Sydney,3-5 years,120000,150000,165000,218000,40,Tech,Very High,Low
+DevOps Engineer,Melbourne,3-5 years,115000,145000,158000,210000,38,Tech,Very High,Low
+Project Manager,Sydney,3-5 years,100000,130000,130000,175000,35,Various,High,Low
+Project Manager,Melbourne,3-5 years,98000,125000,125000,168000,33,Various,High,Low
+Project Manager,Brisbane,3-5 years,92000,118000,115000,155000,30,Various,Medium,Low
+Project Manager,Perth,3-5 years,95000,122000,118000,160000,28,Mining/Construction,Medium,Low
+HR Business Partner,Sydney,3-5 years,95000,120000,115000,152000,28,Various,Medium,Moderate
+HR Business Partner,Melbourne,3-5 years,92000,115000,110000,145000,26,Various,Medium,Moderate
+HR Business Partner,Brisbane,3-5 years,85000,108000,100000,132000,23,Various,Medium,Moderate
+Operations Manager,Sydney,3-5 years,100000,130000,132000,175000,32,Various,High,Low
+Operations Manager,Melbourne,3-5 years,98000,125000,127000,168000,30,Various,High,Low
+Operations Manager,Brisbane,3-5 years,90000,115000,115000,152000,28,Various,Medium,Low
+Customer Service Representative,Sydney,0-2 years,50000,60000,58000,72000,18,Various,Low,Very High
+Customer Service Representative,Melbourne,0-2 years,48000,58000,55000,68000,16,Various,Low,Very High
+Customer Service Representative,Brisbane,0-2 years,45000,55000,52000,64000,15,Various,Low,Very High
+Legal Assistant,Sydney,0-2 years,60000,75000,72000,95000,25,Legal,Medium,High
+Legal Assistant,Melbourne,0-2 years,58000,72000,68000,90000,23,Legal,Medium,High
+Legal Assistant,Brisbane,0-2 years,55000,68000,64000,84000,20,Legal,Low,High
+Junior Lawyer,Sydney,0-2 years,70000,90000,85000,115000,25,Legal,Medium,Moderate
+Junior Lawyer,Melbourne,0-2 years,68000,88000,82000,110000,23,Legal,Medium,Moderate
+Accountant,Sydney,0-2 years,65000,80000,78000,102000,25,Finance/Accounting,Medium,High
+Accountant,Melbourne,0-2 years,62000,78000,74000,98000,23,Finance/Accounting,Medium,High
+Accountant,Brisbane,0-2 years,60000,75000,70000,93000,20,Finance/Accounting,Medium,High
+Accountant,Sydney,3-5 years,85000,110000,105000,142000,28,Finance/Accounting,High,High
+Accountant,Melbourne,3-5 years,82000,105000,100000,135000,26,Finance/Accounting,High,High
+Content Creator/Writer,Sydney,0-2 years,55000,70000,68000,90000,25,Media/Marketing,Medium,High
+Content Creator/Writer,Melbourne,0-2 years,52000,68000,64000,85000,23,Media/Marketing,Medium,High
+Content Creator/Writer,Brisbane,0-2 years,50000,65000,60000,80000,20,Media/Marketing,Medium,High
+Sales Representative,Sydney,0-2 years,55000,75000,65000,88000,20,Various,Medium,High
+Sales Representative,Melbourne,0-2 years,52000,72000,62000,84000,18,Various,Medium,High
+Sales Representative,Brisbane,0-2 years,50000,68000,58000,78000,16,Various,Medium,High
+Registered Nurse,Sydney,0-2 years,70000,85000,78000,95000,12,Healthcare,Very High,Very Low
+Registered Nurse,Melbourne,0-2 years,68000,82000,75000,92000,11,Healthcare,Very High,Very Low
+Registered Nurse,Brisbane,0-2 years,65000,78000,71000,87000,10,Healthcare,Very High,Very Low
+Registered Nurse,Perth,0-2 years,72000,88000,78000,97000,10,Healthcare,Very High,Very Low
+Teacher (Secondary),Sydney,0-2 years,73000,85000,78000,93000,8,Education,High,Very Low
+Teacher (Secondary),Melbourne,0-2 years,71000,83000,76000,90000,8,Education,High,Very Low
+Teacher (Secondary),Brisbane,0-2 years,68000,80000,72000,86000,7,Education,High,Very Low
+Construction Project Manager,Sydney,3-5 years,100000,135000,115000,155000,15,Construction,Very High,Very Low
+Construction Project Manager,Melbourne,3-5 years,98000,130000,110000,148000,14,Construction,Very High,Very Low
+Construction Project Manager,Brisbane,3-5 years,95000,125000,105000,142000,12,Construction,Very High,Very Low
+Construction Project Manager,Perth,3-5 years,105000,140000,115000,158000,12,Construction/Mining,Very High,Very Low
+Electrician,Sydney,3-5 years,75000,95000,80000,102000,8,Trades,Very High,Very Low
+Electrician,Melbourne,3-5 years,72000,92000,77000,98000,8,Trades,Very High,Very Low
+Electrician,Brisbane,3-5 years,70000,88000,74000,94000,7,Trades,Very High,Very Low
+Electrician,Perth,3-5 years,80000,105000,84000,110000,6,Mining/Trades,Very High,Very Low
+Hospitality Manager,Sydney,3-5 years,65000,85000,70000,92000,9,Hospitality,High,Low
+Hospitality Manager,Melbourne,3-5 years,62000,82000,67000,88000,9,Hospitality,High,Low
+Hospitality Manager,Brisbane,3-5 years,60000,78000,64000,84000,8,Hospitality,High,Low
+Chef,Sydney,3-5 years,60000,75000,62000,78000,5,Hospitality,High,Very Low
+Chef,Melbourne,3-5 years,58000,72000,60000,75000,5,Hospitality,High,Very Low
+Chef,Brisbane,3-5 years,55000,68000,57000,71000,4,Hospitality,High,Very Low
+AI Ethics Officer,Sydney,3-5 years,110000,145000,145000,195000,35,Tech/Consulting,Medium,Very Low
+AI Ethics Officer,Melbourne,3-5 years,105000,138000,138000,185000,33,Tech/Consulting,Medium,Very Low
+Prompt Engineer,Sydney,0-2 years,80000,105000,105000,142000,35,Tech,High,Low
+Prompt Engineer,Melbourne,0-2 years,78000,100000,100000,135000,33,Tech,High,Low
+AI Product Manager,Sydney,3-5 years,130000,170000,170000,230000,35,Tech,Very High,Very Low
+AI Product Manager,Melbourne,3-5 years,125000,165000,165000,220000,33,Tech,Very High,Very Low

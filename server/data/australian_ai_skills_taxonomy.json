@@ -1,0 +1,777 @@
+{
+  "ai_skills_taxonomy": {
+    "foundation_skills": {
+      "description": "Entry-level AI literacy skills for all workers",
+      "importance": "Critical for AI era - baseline for employability",
+      "learning_time": "1-2 months",
+      "skill_type": "Augmentation",
+      "automation_risk_reduction": "25-35%",
+      "wage_premium": "15-25%",
+      "skills": [
+        {
+          "skill_name": "AI Tool Literacy",
+          "description": "Understanding how to use ChatGPT, Claude, and other AI assistants effectively",
+          "australian_courses": [
+            "Prompt Engineering Masterclass - Australian AI Institute ($495)",
+            "Introduction to Generative AI - Google Cloud Skills Boost (Free)",
+            "AI for Business Professionals - RMIT Online ($1,495)"
+          ],
+          "free_resources": [
+            "OpenAI ChatGPT tutorials",
+            "Claude.ai getting started guide",
+            "YouTube: AI productivity channels"
+          ],
+          "practice_projects": [
+            "Use AI to automate weekly report generation",
+            "Create content calendar using AI assistance",
+            "Build personal knowledge base with AI organization"
+          ],
+          "australian_demand": "Very High - 68% of Australian employers want basic AI literacy",
+          "roles_benefiting": ["All office workers", "Managers", "Coordinators", "Analysts"]
+        },
+        {
+          "skill_name": "Prompt Engineering",
+          "description": "Writing effective prompts to get desired outputs from AI models",
+          "australian_courses": [
+            "Prompt Engineering Masterclass - Australian AI Institute ($495)",
+            "Advanced Prompt Engineering for Developers - Academy Xi ($695)"
+          ],
+          "free_resources": [
+            "OpenAI Prompt Engineering Guide",
+            "Learn Prompting (learnprompting.org)",
+            "Reddit r/PromptEngineering"
+          ],
+          "practice_projects": [
+            "Create prompt library for your industry",
+            "Build AI-powered workflow for common tasks",
+            "Develop role-specific prompt templates"
+          ],
+          "australian_demand": "High - Growing rapidly in 2025",
+          "roles_benefiting": ["Content creators", "Marketers", "Developers", "Business Analysts"]
+        },
+        {
+          "skill_name": "AI Ethics Awareness",
+          "description": "Understanding bias, privacy, and responsible AI use",
+          "australian_courses": [
+            "Ethical AI and Responsible Tech - Griffith University ($1,250)",
+            "AI Ethics and Governance - ANU ($1,200)"
+          ],
+          "free_resources": [
+            "Australian AI Ethics Framework",
+            "Elements of AI - University of Helsinki (free, in English)",
+            "Fast.ai ethics lectures (free)"
+          ],
+          "practice_projects": [
+            "Audit AI tool outputs for bias in your workflow",
+            "Create AI usage guidelines for your team",
+            "Document AI decision-making for transparency"
+          ],
+          "australian_demand": "Medium but growing - Regulatory compliance increasing",
+          "roles_benefiting": ["Managers", "Compliance officers", "HR professionals", "Executives"]
+        }
+      ]
+    },
+    "data_analysis_skills": {
+      "description": "Skills for working with data to inform decisions - AI-augmented analytics",
+      "importance": "High - Most in-demand skill category in Australia 2025",
+      "learning_time": "3-6 months",
+      "skill_type": "Augmentation with some technical depth",
+      "automation_risk_reduction": "45-55%",
+      "wage_premium": "35-50%",
+      "skills": [
+        {
+          "skill_name": "SQL",
+          "description": "Querying databases to extract and analyze data",
+          "australian_courses": [
+            "Advanced SQL for Data Analysis - General Assembly Australia ($1,200)",
+            "Data Analytics and Visualization - TAFE Queensland ($0-600, government-funded)"
+          ],
+          "free_resources": [
+            "Mode Analytics SQL Tutorial (free, excellent)",
+            "SQLBolt interactive lessons",
+            "Khan Academy SQL course"
+          ],
+          "practice_projects": [
+            "Analyze sample e-commerce database",
+            "Build customer segmentation queries",
+            "Create business dashboard pulling from database"
+          ],
+          "australian_demand": "Very High - 72% of analyst roles require SQL",
+          "roles_benefiting": ["Business Analysts", "Data Analysts", "Product Managers", "Marketing Analysts"]
+        },
+        {
+          "skill_name": "Excel Advanced + Power Query",
+          "description": "Advanced Excel including automation, Power Query, and AI integration",
+          "australian_courses": [
+            "Excel to Power BI Transition - TAFE WA ($0-300, government-funded)",
+            "Business Analytics Foundations - University of South Australia ($1,300)"
+          ],
+          "free_resources": [
+            "Microsoft Excel training (free)",
+            "YouTube: Leila Gharani, MyOnlineTrainingHub",
+            "Excel subreddit community"
+          ],
+          "practice_projects": [
+            "Automate monthly reporting with Power Query",
+            "Build dynamic dashboard with pivot tables",
+            "Create forecasting model with Excel AI features"
+          ],
+          "australian_demand": "Very High - Still most requested skill in job postings",
+          "roles_benefiting": ["Business Analysts", "Financial Analysts", "Operations Coordinators", "Admin transitioning up"]
+        },
+        {
+          "skill_name": "Power BI",
+          "description": "Creating interactive dashboards and business intelligence reports",
+          "australian_courses": [
+            "Business Intelligence with Power BI - LinkedIn Learning Australia ($49.99/month)",
+            "Data Visualization Fundamentals - La Trobe University ($1,100)",
+            "Excel to Power BI Transition - TAFE WA ($0-300)"
+          ],
+          "free_resources": [
+            "Microsoft Power BI learning path (free)",
+            "Guy in a Cube YouTube channel",
+            "Power BI community forums"
+          ],
+          "practice_projects": [
+            "Sales performance dashboard",
+            "Operational metrics real-time reporting",
+            "Customer analytics visualization"
+          ],
+          "australian_demand": "Very High - 58% of analyst job postings mention Power BI",
+          "roles_benefiting": ["Business Analysts", "Data Analysts", "Business Intelligence Analysts", "Operations Managers"]
+        },
+        {
+          "skill_name": "Python for Data Analysis",
+          "description": "Using Python (Pandas, NumPy) for data manipulation and analysis",
+          "australian_courses": [
+            "Python for Data Science - University of Sydney ($1,600)",
+            "Python Machine Learning Bootcamp - Le Wagon Australia ($10,500)",
+            "Certificate IV in IT (AI Stream) - TAFE NSW ($0-800, government-funded)"
+          ],
+          "free_resources": [
+            "Python.org tutorial",
+            "Codecademy Python",
+            "Kaggle Learn Python (free, hands-on)"
+          ],
+          "practice_projects": [
+            "Data cleaning and analysis workflow",
+            "Automate Excel reports with Python",
+            "Web scraping for market research"
+          ],
+          "australian_demand": "High - 45% of data analyst roles prefer Python",
+          "roles_benefiting": ["Data Analysts", "Data Scientists", "Business Analysts (advanced)", "Financial Analysts"]
+        },
+        {
+          "skill_name": "Tableau",
+          "description": "Data visualization and business intelligence platform",
+          "australian_courses": [
+            "Data Visualization Fundamentals - La Trobe University ($1,100)",
+            "Data Analytics and Visualization - TAFE Queensland ($0-600)"
+          ],
+          "free_resources": [
+            "Tableau Public (free version)",
+            "Tableau eLearning (free courses)",
+            "Makeover Monday community projects"
+          ],
+          "practice_projects": [
+            "Public health data visualization",
+            "Business metrics dashboard",
+            "Australian census data analysis"
+          ],
+          "australian_demand": "Medium-High - Competing with Power BI but still valued",
+          "roles_benefiting": ["Data Analysts", "Business Intelligence Analysts", "Data Visualization Specialists"]
+        }
+      ]
+    },
+    "technical_ai_skills": {
+      "description": "Deep technical skills for building and deploying AI systems",
+      "importance": "Very High for technical roles - Premium wage benefits",
+      "learning_time": "6-12 months",
+      "skill_type": "Technical AI - Building systems",
+      "automation_risk_reduction": "65-75% (AI creators, not users)",
+      "wage_premium": "50-80%",
+      "skills": [
+        {
+          "skill_name": "Machine Learning Fundamentals",
+          "description": "Understanding ML algorithms, model training, evaluation",
+          "australian_courses": [
+            "Machine Learning Fundamentals - University of Melbourne ($2,200)",
+            "Applied AI for Developers - RMIT Online ($495)",
+            "Graduate Certificate in AI - QUT ($8,000)"
+          ],
+          "free_resources": [
+            "Google Machine Learning Crash Course (free, excellent)",
+            "Fast.ai Practical Deep Learning (free)",
+            "Coursera Machine Learning by Andrew Ng (audit free)"
+          ],
+          "practice_projects": [
+            "House price prediction model",
+            "Customer churn prediction",
+            "Image classification system"
+          ],
+          "australian_demand": "Very High - Tech skills shortage of 300,000 by 2030",
+          "roles_benefiting": ["Data Scientists", "ML Engineers", "AI Engineers", "Research Scientists"]
+        },
+        {
+          "skill_name": "Deep Learning & Neural Networks",
+          "description": "Advanced ML using neural networks, CNNs, RNNs, Transformers",
+          "australian_courses": [
+            "Deep Learning Specialization - Udacity (Australian partnership) ($1,999)",
+            "Advanced Analytics with R - Monash Data Science ($1,900)",
+            "Computer Vision Fundamentals - UWA ($1,700)"
+          ],
+          "free_resources": [
+            "Fast.ai Deep Learning course (free, practical)",
+            "DeepLearning.ai courses on Coursera (audit free)",
+            "PyTorch tutorials (free)"
+          ],
+          "practice_projects": [
+            "Image classification with CNNs",
+            "Sentiment analysis with RNNs",
+            "Text generation with transformers"
+          ],
+          "australian_demand": "High - Especially in fintech, healthcare, autonomous systems",
+          "roles_benefiting": ["ML Engineers", "Computer Vision Engineers", "NLP Engineers", "Research Scientists"]
+        },
+        {
+          "skill_name": "Natural Language Processing (NLP)",
+          "description": "Building systems that understand and generate human language",
+          "australian_courses": [
+            "Natural Language Processing - University of Adelaide ($1,800)",
+            "AI Chatbot Development - TAFE Digital ($0-200, government-funded)"
+          ],
+          "free_resources": [
+            "Hugging Face NLP course (free)",
+            "Stanford CS224N lectures (free on YouTube)",
+            "spaCy tutorials (free)"
+          ],
+          "practice_projects": [
+            "Sentiment analysis tool for Australian news",
+            "Text classification system",
+            "Question-answering bot using RAG"
+          ],
+          "australian_demand": "Very High - Customer service automation, content analysis",
+          "roles_benefiting": ["NLP Engineers", "ML Engineers", "Data Scientists", "AI Researchers"]
+        },
+        {
+          "skill_name": "MLOps & Model Deployment",
+          "description": "Deploying ML models to production, monitoring, CI/CD for ML",
+          "australian_courses": [
+            "Machine Learning Operations (MLOps) - Australian Computer Society ($1,850)",
+            "AI and IoT Integration - University of Newcastle ($1,650)"
+          ],
+          "free_resources": [
+            "Google Cloud MLOps documentation (free)",
+            "MLOps.org community resources",
+            "AWS SageMaker tutorials (free tier)"
+          ],
+          "practice_projects": [
+            "Deploy model as REST API",
+            "Set up ML monitoring pipeline",
+            "Create automated retraining system"
+          ],
+          "australian_demand": "Very High - Bridging gap between data scientists and engineers",
+          "roles_benefiting": ["ML Engineers", "DevOps Engineers", "Data Engineers", "Platform Engineers"]
+        },
+        {
+          "skill_name": "Computer Vision",
+          "description": "Building systems that understand images and video",
+          "australian_courses": [
+            "Computer Vision Fundamentals - UWA ($1,700)",
+            "Deep Learning Specialization - Udacity ($1,999)"
+          ],
+          "free_resources": [
+            "PyImageSearch tutorials",
+            "OpenCV documentation and tutorials",
+            "Fast.ai computer vision course"
+          ],
+          "practice_projects": [
+            "Object detection system",
+            "Face recognition application",
+            "Quality inspection system for manufacturing"
+          ],
+          "australian_demand": "High - Manufacturing, healthcare, autonomous vehicles, retail",
+          "roles_benefiting": ["Computer Vision Engineers", "ML Engineers", "Robotics Engineers", "Research Scientists"]
+        }
+      ]
+    },
+    "business_ai_skills": {
+      "description": "Strategic and managerial skills for leading AI initiatives",
+      "importance": "High for leadership roles - Bridge technical and business",
+      "learning_time": "2-4 months",
+      "skill_type": "Strategic AI Leadership",
+      "automation_risk_reduction": "55-65%",
+      "wage_premium": "35-55%",
+      "skills": [
+        {
+          "skill_name": "AI Strategy & Product Management",
+          "description": "Defining AI product vision, roadmap, and business value",
+          "australian_courses": [
+            "AI Strategy for Leaders - Australian Institute of Management ($1,995)",
+            "AI and Machine Learning for Business - Monash University ($1,850)",
+            "AI for Project Managers - Australian Institute of Project Management ($995)"
+          ],
+          "free_resources": [
+            "Harvard Business Review AI articles",
+            "a16z AI blog posts",
+            "Product School AI PM resources"
+          ],
+          "practice_projects": [
+            "AI product opportunity assessment",
+            "Build vs buy vs partner analysis for AI",
+            "ROI model for AI implementation"
+          ],
+          "australian_demand": "Very High - Companies need AI-literate leaders",
+          "roles_benefiting": ["Product Managers", "Senior Managers", "Executives", "Strategy Consultants"]
+        },
+        {
+          "skill_name": "AI Governance & Ethics",
+          "description": "Managing AI risks, compliance, ethical frameworks",
+          "australian_courses": [
+            "AI Ethics and Governance - ANU ($1,200)",
+            "Ethical AI and Responsible Tech - Griffith University ($1,250)",
+            "AI Safety and Alignment - Future of Humanity Institute Australia (Free)"
+          ],
+          "free_resources": [
+            "Australian AI Ethics Framework (government)",
+            "OECD AI Principles",
+            "AI ethics case studies"
+          ],
+          "practice_projects": [
+            "AI risk assessment framework for your organization",
+            "Bias audit of AI system",
+            "AI governance policy document"
+          ],
+          "australian_demand": "Growing rapidly - Regulatory compliance increasing",
+          "roles_benefiting": ["Compliance Officers", "Risk Managers", "Legal Professionals", "Ethics Officers"]
+        },
+        {
+          "skill_name": "Change Management for AI",
+          "description": "Leading organizational transformation during AI adoption",
+          "australian_courses": [
+            "Change Management in AI Adoption - Swinburne Online ($1,150)",
+            "AI Strategy for Leaders - AIM ($1,995)"
+          ],
+          "free_resources": [
+            "McKinsey AI transformation insights",
+            "Prosci change management methodology",
+            "Harvard Business Review change management articles"
+          ],
+          "practice_projects": [
+            "AI adoption roadmap for department",
+            "Stakeholder analysis and communication plan",
+            "Training program design for AI tools"
+          ],
+          "australian_demand": "High - Organizations struggling with AI transformation",
+          "roles_benefiting": ["Change Managers", "HR Leaders", "Operations Managers", "Executives"]
+        }
+      ]
+    },
+    "augmentation_skills": {
+      "description": "Using AI to enhance existing professional roles",
+      "importance": "Critical for all knowledge workers - Baseline for survival",
+      "learning_time": "1-3 months per tool category",
+      "skill_type": "Augmentation - AI as assistant",
+      "automation_risk_reduction": "30-45%",
+      "wage_premium": "25-40%",
+      "skills": [
+        {
+          "skill_name": "AI-Augmented Writing & Content",
+          "description": "Using AI to enhance writing, editing, content creation",
+          "australian_courses": [
+            "Generative AI Applications - University of Queensland ($1,400)",
+            "AI for Creative Industries - Billy Blue College ($2,200)"
+          ],
+          "free_resources": [
+            "ChatGPT for writers guides",
+            "Copy.ai tutorials",
+            "Jasper.ai webinars"
+          ],
+          "practice_projects": [
+            "Create content calendar with AI assistance",
+            "Write blog post series using AI workflow",
+            "Develop brand voice guidelines for AI tools"
+          ],
+          "australian_demand": "Very High - All content roles",
+          "roles_benefiting": ["Content Creators", "Marketers", "Communications Specialists", "Journalists"]
+        },
+        {
+          "skill_name": "AI for Marketing Analytics",
+          "description": "Using AI tools for campaign analysis, customer insights, optimization",
+          "australian_courses": [
+            "AI-Powered Marketing Analytics - Swinburne University ($1,350)",
+            "Digital Marketing with AI - Shaw Academy Australia ($49/month)"
+          ],
+          "free_resources": [
+            "Google Analytics with AI features (free)",
+            "HubSpot AI marketing blog",
+            "Meta AI advertising guides"
+          ],
+          "practice_projects": [
+            "Customer segmentation using AI tools",
+            "Campaign performance prediction model",
+            "Automated A/B testing framework"
+          ],
+          "australian_demand": "Very High - Digital marketing evolution",
+          "roles_benefiting": ["Marketing Analysts", "Digital Marketers", "Growth Managers", "Marketing Managers"]
+        },
+        {
+          "skill_name": "AI for Sales (Prospecting, Outreach, CRM)",
+          "description": "Using AI to enhance sales efficiency and effectiveness",
+          "australian_courses": [
+            "Salesforce with AI features - Trailhead (Free)",
+            "AI for Sales workshops - Various providers ($300-800)"
+          ],
+          "free_resources": [
+            "Apollo.io AI prospecting tutorials",
+            "Clay.com AI data enrichment guides",
+            "LinkedIn Sales Navigator AI features"
+          ],
+          "practice_projects": [
+            "Build AI-powered prospecting workflow",
+            "Create personalized outreach at scale system",
+            "Develop sales forecasting model"
+          ],
+          "australian_demand": "High - B2B sales transformation",
+          "roles_benefiting": ["Sales Development Reps", "Account Executives", "Sales Managers"]
+        },
+        {
+          "skill_name": "AI for Code (GitHub Copilot, Code Generation)",
+          "description": "Using AI coding assistants to accelerate development",
+          "australian_courses": [
+            "Advanced Prompt Engineering for Developers - Academy Xi ($695)",
+            "Full Stack Development with AI Integration - Coder Academy ($16,000)"
+          ],
+          "free_resources": [
+            "GitHub Copilot documentation",
+            "Cursor.ai tutorials",
+            "AI coding assistant best practices"
+          ],
+          "practice_projects": [
+            "Build application using AI pair programming",
+            "Create AI-assisted testing suite",
+            "Develop code review automation"
+          ],
+          "australian_demand": "Very High - Expected skill for developers in 2025",
+          "roles_benefiting": ["Software Engineers", "Full Stack Developers", "DevOps Engineers"]
+        },
+        {
+          "skill_name": "AI for Administrative Work",
+          "description": "Automating scheduling, email, document processing",
+          "australian_courses": [
+            "AI Tools for Administrative Professionals - Upskilled Australia ($395)",
+            "Automation and AI for Business - Macquarie University ($1,550)"
+          ],
+          "free_resources": [
+            "Zapier AI automation tutorials",
+            "Microsoft 365 Copilot guides",
+            "Notion AI documentation"
+          ],
+          "practice_projects": [
+            "Automate meeting scheduling workflow",
+            "Build email triage and response system",
+            "Create document processing automation"
+          ],
+          "australian_demand": "High - Essential for admin role survival",
+          "roles_benefiting": ["Administrative Assistants", "Office Managers", "Executive Assistants", "Coordinators"]
+        },
+        {
+          "skill_name": "AI for Financial Analysis",
+          "description": "Using AI for financial modeling, forecasting, risk analysis",
+          "australian_courses": [
+            "AI for Finance Professionals - CPA Australia ($1,200)",
+            "Financial Modeling with AI - various providers ($800-1,500)"
+          ],
+          "free_resources": [
+            "Excel AI features for finance",
+            "Python financial modeling tutorials",
+            "Financial AI tools documentation"
+          ],
+          "practice_projects": [
+            "Build automated financial reporting system",
+            "Create predictive cash flow model",
+            "Develop fraud detection analysis"
+          ],
+          "australian_demand": "Very High - Finance sector high AI adoption (11.8% of roles)",
+          "roles_benefiting": ["Financial Analysts", "Accountants", "Risk Analysts", "Finance Managers"]
+        },
+        {
+          "skill_name": "AI for Healthcare (Clinical Support)",
+          "description": "Using AI tools for diagnostics support, patient data, administration",
+          "australian_courses": [
+            "AI for Healthcare Professionals - UTS ($1,650)",
+            "AI and Automation in Healthcare - Curtin University ($1,600)"
+          ],
+          "free_resources": [
+            "Healthcare AI research papers",
+            "Clinical AI tools documentation",
+            "Medical AI ethics guidelines"
+          ],
+          "practice_projects": [
+            "Analyze patient outcome data patterns",
+            "Build clinical documentation automation",
+            "Create patient triage decision support tool"
+          ],
+          "australian_demand": "High - Healthcare augmentation not replacement",
+          "roles_benefiting": ["Healthcare Administrators", "Clinical Nurses", "Allied Health", "Medical Researchers"]
+        },
+        {
+          "skill_name": "AI for Legal Work",
+          "description": "Using AI for legal research, contract analysis, document review",
+          "australian_courses": [
+            "AI for Legal Professionals - Australian Legal Education ($890)"
+          ],
+          "free_resources": [
+            "Legal AI tools documentation",
+            "LawTech articles and guides",
+            "Australian legal AI case studies"
+          ],
+          "practice_projects": [
+            "Create contract review workflow with AI",
+            "Build legal research automation",
+            "Develop document analysis system"
+          ],
+          "australian_demand": "Medium-High - Junior legal roles most affected",
+          "roles_benefiting": ["Paralegals", "Legal Assistants", "Junior Lawyers", "Compliance Officers"]
+        }
+      ]
+    },
+    "soft_skills": {
+      "description": "Human skills that AI cannot replicate - Increasingly valuable",
+      "importance": "Critical - AI makes these MORE valuable, not less",
+      "learning_time": "Ongoing development",
+      "skill_type": "Human advantage",
+      "automation_risk_reduction": "Very High - AI-proof skills",
+      "wage_premium": "Variable but significant in combination with technical skills",
+      "skills": [
+        {
+          "skill_name": "Critical Thinking & Problem-Solving",
+          "description": "Analyzing complex problems, evaluating AI outputs, strategic thinking",
+          "how_to_develop": [
+            "Practice questioning AI outputs - don't accept blindly",
+            "Case study analysis exercises",
+            "Join decision-making discussions and projects",
+            "Read diverse perspectives and evaluate arguments"
+          ],
+          "australian_demand": "Very High - Jobs & Skills Australia identifies as essential for AI era",
+          "roles_benefiting": ["All professional roles", "Especially managers and analysts"]
+        },
+        {
+          "skill_name": "Communication & Stakeholder Management",
+          "description": "Explaining complex concepts, building relationships, negotiation",
+          "how_to_develop": [
+            "Present regularly to different audiences",
+            "Write explanatory blog posts or documentation",
+            "Join Toastmasters or similar speaking groups",
+            "Practice translating technical concepts for non-technical stakeholders"
+          ],
+          "australian_demand": "Very High - Human connection irreplaceable",
+          "roles_benefiting": ["All roles", "Especially customer-facing and leadership positions"]
+        },
+        {
+          "skill_name": "Creativity & Innovation",
+          "description": "Generating novel ideas, strategic thinking, design thinking",
+          "how_to_develop": [
+            "Use AI as brainstorming partner but drive creative direction",
+            "Take design thinking workshops",
+            "Practice ideation techniques",
+            "Work on creative projects outside work"
+          ],
+          "australian_demand": "High - AI generates, humans innovate",
+          "roles_benefiting": ["Product Managers", "Designers", "Marketing", "Strategy roles"]
+        },
+        {
+          "skill_name": "Emotional Intelligence & Empathy",
+          "description": "Understanding human emotions, building trust, conflict resolution",
+          "how_to_develop": [
+            "Active listening practice",
+            "Seek feedback on interpersonal interactions",
+            "Read books on emotional intelligence",
+            "Engage in mentoring or coaching"
+          ],
+          "australian_demand": "Very High - Essential for healthcare, education, leadership",
+          "roles_benefiting": ["Healthcare", "Education", "Customer Success", "Leadership", "HR"]
+        },
+        {
+          "skill_name": "Adaptability & Learning Agility",
+          "description": "Learning new skills quickly, adapting to change, resilience",
+          "how_to_develop": [
+            "Regularly learn new technologies or skills",
+            "Embrace change rather than resist it",
+            "Reflect on learning experiences",
+            "Seek feedback and iterate"
+          ],
+          "australian_demand": "Critical - Jobs & Skills Australia emphasizes 'adaptability will be critical'",
+          "roles_benefiting": ["All roles - survival skill in AI era"]
+        },
+        {
+          "skill_name": "Collaboration & Teamwork",
+          "description": "Working effectively with diverse teams, cross-functional coordination",
+          "how_to_develop": [
+            "Lead or participate in cross-functional projects",
+            "Practice giving and receiving feedback",
+            "Understand different working styles",
+            "Build relationships across departments"
+          ],
+          "australian_demand": "High - Complex problems require human collaboration",
+          "roles_benefiting": ["All roles", "Especially project-based and matrix organizations"]
+        },
+        {
+          "skill_name": "Ethical Judgment & Values",
+          "description": "Making decisions considering ethics, bias, societal impact",
+          "how_to_develop": [
+            "Study AI ethics frameworks",
+            "Practice ethical decision-making scenarios",
+            "Question implications of technology decisions",
+            "Advocate for responsible AI use"
+          ],
+          "australian_demand": "Growing - Governance and compliance increasing",
+          "roles_benefiting": ["All roles", "Especially leadership and governance"]
+        }
+      ]
+    }
+  },
+  "australian_job_market_mapping": {
+    "high_risk_roles": {
+      "description": "Roles with >50% tasks automatable - Immediate upskilling needed",
+      "roles": [
+        {
+          "role": "Administrative Assistant",
+          "automation_risk": "70%",
+          "required_ai_skills": ["AI for Administrative Work", "Excel Advanced", "AI Tool Literacy"],
+          "recommended_pathway": "Transition to Business Analyst or Operations Coordinator",
+          "timeline": "5-7 months",
+          "australian_courses": ["TAFE Business Analysis Certificate IV", "Excel to Power BI transition courses"]
+        },
+        {
+          "role": "Data Entry Operator",
+          "automation_risk": "85%",
+          "required_ai_skills": ["Data Analysis Skills", "SQL", "Power BI"],
+          "recommended_pathway": "Transition to Data Analyst",
+          "timeline": "4-6 months",
+          "australian_courses": ["TAFE Data Analytics", "University micro-credentials in data analysis"]
+        },
+        {
+          "role": "Bookkeeper / Junior Accountant",
+          "automation_risk": "65%",
+          "required_ai_skills": ["AI for Financial Analysis", "Python for Finance", "Advanced Excel"],
+          "recommended_pathway": "Transition to Financial Analyst or Management Accountant",
+          "timeline": "6-8 months",
+          "australian_courses": ["CPA AI for Finance", "University financial modeling courses"]
+        },
+        {
+          "role": "Customer Service Representative",
+          "automation_risk": "75%",
+          "required_ai_skills": ["CRM with AI", "Data Analysis", "Communication"],
+          "recommended_pathway": "Transition to Customer Success Manager",
+          "timeline": "4-6 months",
+          "australian_courses": ["Salesforce training", "Customer Success certifications"]
+        },
+        {
+          "role": "Junior Software Engineer (entry-level)",
+          "automation_risk": "60%",
+          "required_ai_skills": ["AI for Code", "GitHub Copilot", "ML Fundamentals"],
+          "recommended_pathway": "Specialize in ML Engineering or AI-augmented development",
+          "timeline": "3-5 months",
+          "australian_courses": ["RMIT Applied AI for Developers", "Fast.ai courses"]
+        }
+      ]
+    },
+    "moderate_risk_roles": {
+      "description": "Roles with 30-50% tasks automatable - AI augmentation essential",
+      "roles": [
+        {
+          "role": "Business Analyst",
+          "automation_risk": "45%",
+          "required_ai_skills": ["SQL", "Power BI", "Python basics", "AI Tool Literacy"],
+          "recommended_pathway": "Become AI-augmented Business Analyst",
+          "timeline": "3-4 months",
+          "australian_courses": ["RMIT Business Analytics", "Power BI certifications"]
+        },
+        {
+          "role": "Marketing Analyst",
+          "automation_risk": "40%",
+          "required_ai_skills": ["AI for Marketing", "Data Analysis", "Content AI tools"],
+          "recommended_pathway": "Become AI-powered Marketing Strategist",
+          "timeline": "3-5 months",
+          "australian_courses": ["Swinburne AI Marketing Analytics", "Digital marketing with AI courses"]
+        },
+        {
+          "role": "Financial Analyst",
+          "automation_risk": "50%",
+          "required_ai_skills": ["Python for Finance", "AI Financial Modeling", "Power BI"],
+          "recommended_pathway": "Become Financial Data Analyst",
+          "timeline": "5-7 months",
+          "australian_courses": ["CPA AI for Finance", "Python for Finance courses"]
+        }
+      ]
+    },
+    "low_risk_roles": {
+      "description": "Roles with <30% tasks automatable - AI as tool, human expertise essential",
+      "roles": [
+        {
+          "role": "Data Scientist",
+          "automation_risk": "20%",
+          "required_ai_skills": ["Advanced ML", "MLOps", "AI Ethics", "Communication"],
+          "recommended_pathway": "Stay current with latest AI techniques",
+          "timeline": "Ongoing learning",
+          "australian_courses": ["University ML courses", "Industry conferences"]
+        },
+        {
+          "role": "Product Manager",
+          "automation_risk": "25%",
+          "required_ai_skills": ["AI Strategy", "Data Analysis", "AI Tool Literacy"],
+          "recommended_pathway": "Become AI Product Manager",
+          "timeline": "2-3 months",
+          "australian_courses": ["Monash AI for Business", "Product School AI PM"]
+        },
+        {
+          "role": "UX Designer",
+          "automation_risk": "30%",
+          "required_ai_skills": ["AI design tools", "User Research", "Prompt Engineering"],
+          "recommended_pathway": "Use AI for execution, focus on strategy/research",
+          "timeline": "2-3 months",
+          "australian_courses": ["Billy Blue AI for Creative", "IDF courses"]
+        }
+      ]
+    },
+    "growth_roles": {
+      "description": "Roles expected to grow significantly - High opportunity",
+      "roles": [
+        "Registered Nurses (AI augmented)",
+        "Teachers (AI-enhanced education)",
+        "Construction Project Managers",
+        "Electricians and Trades",
+        "Data Scientists",
+        "ML Engineers",
+        "Cybersecurity Analysts",
+        "Healthcare Administrators",
+        "Business Administration Managers",
+        "Hospitality Workers"
+      ]
+    }
+  },
+  "australian_learning_pathways": {
+    "admin_to_analyst": {
+      "timeline": "5-7 months",
+      "investment": "$1,000-$2,500 AUD",
+      "skills_sequence": ["Excel Advanced", "SQL", "Power BI", "Business Analysis fundamentals"],
+      "courses": ["TAFE Business Analysis Certificate IV ($400)", "Excel advanced (free)", "SQL (free - Mode Analytics)", "Power BI (LinkedIn Learning $50/month)"],
+      "outcome": "Business Analyst $85k+ in Sydney"
+    },
+    "customer_service_to_success": {
+      "timeline": "4-6 months",
+      "investment": "$500-$1,500 AUD",
+      "skills_sequence": ["Salesforce basics", "Data analysis", "Excel", "Customer Success methodology"],
+      "courses": ["Salesforce Trailhead (free)", "Excel (free)", "SQL basics (free)", "Customer Success courses ($400-800)"],
+      "outcome": "Customer Success Manager $78k+ in Sydney"
+    },
+    "graduate_to_ai_ready": {
+      "timeline": "3-4 months intensive",
+      "investment": "$1,500-$3,000 AUD",
+      "skills_sequence": ["Python/SQL", "ML basics", "Portfolio projects", "AI tools"],
+      "courses": ["University micro-credentials ($1,500)", "Google ML Crash Course (free)", "Fast.ai (free)", "Build 3 projects"],
+      "outcome": "Junior AI-ready role $85k+ in Melbourne"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+# Core framework
+streamlit==1.39.0
+python-dotenv==1.0.1
+
+# OpenAI client (new API)
+openai==1.45.0
+
+# LangChain modular ecosystem (post-0.3 architecture)
+langchain==0.3.7
+langchain-core==0.3.17
+langchain-community==0.3.7
+langchain-openai==0.2.8
+langchain-text-splitters==0.3.2
+
+# Embeddings + vector search
+faiss-cpu==1.8.0.post1
+
+# Utilities
+tiktoken==0.7.0
+numpy==1.26.4
+pandas==2.2.3
