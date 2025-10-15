@@ -3,5 +3,6 @@ builder = "NIXPACKS"
 buildCommand = "npm install && npm run build"
 
 [env]
+NODE_VERSION = "22.12.0"
 NIXPACKS_NODE_VERSION = "22.12.0"
 NIXPACKS_PACKAGE_MANAGER = "npm"
