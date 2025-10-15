@@ -1,4 +1,9 @@
 {
+"engines": {
+  "node": "22.12.0",
+  "npm": "10.x"
+},
+
   "name": "ai-proof-career-navigator",
   "version": "1.0.0",
   "private": true,
