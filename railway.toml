@@ -1,10 +1,5 @@
 [build]
 builder = "NIXPACKS"
-buildCommand = "cd server && npm install"
 
-[start]
-command = "cd server && node index.js"
-"scripts": {
-  "dev": "node --watch server/index.js",
-  "start": "node server/index.js"
-}
+[deploy]
+startCommand = "npm start"
