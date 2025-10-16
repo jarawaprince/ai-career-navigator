@@ -1,6 +1,8 @@
 const API_BASE_URL = import.meta.env.VITE_API_BASE_URL;
 
-async function sendMessage(message) {
+console.log("Using API base URL:", import.meta.env.VITE_API_BASE_URL);
+
+export async function sendMessage(message: string) {
   const res = await fetch(`${API_BASE_URL}/api/chat`, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
